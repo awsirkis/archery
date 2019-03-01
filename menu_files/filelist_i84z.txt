@@ -1,0 +1,11 @@
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\wrapper_bg.png
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\wrapper_simple_bg.png
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\ebab_mbmcp.png
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\ebab_mbmcp_d.png
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\ebab_mbmcp_d2.png
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\ebab_mbmcp_c.png
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\ebab_mbmcp_c2.png
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\mbjsmbmcp.js
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\mbcsmbmcp.css
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu.htm
+C:\Users\awsir\Documents\School\School\Winter 2019\HTML5 100\Projects\Archery\menu_files\filelist_i84z.txt
