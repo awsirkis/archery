@@ -12,7 +12,6 @@ table#t01 tr:nth-child(odd){                /*Solid  black border around table a
     border-spacing: 5px;
     color: black;
     background-color: #FFFFFD;
-    font-size: ;
 }
 table, th, td {
     border: 1px solid black;
