@@ -1,3 +1,4 @@
+/*Begin Table Styling*/
 table#t01 tr:nth-child(even){                /*Solid  black border around table cells*/
     border: 1px solid black;
     border-collapse: collapse;
@@ -11,14 +12,90 @@ table#t01 tr:nth-child(odd){                /*Solid  black border around table a
     border-spacing: 5px;
     color: black;
     background-color: #FFFFFD;
+    font-size: ;
 }
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    font-size: 16px;
 }
 th, td{
     padding: 10px;
 }
 th{
     text-align: left;
+}
+table{
+    width: 100%;
+}
+
+/*End Table Styling*/
+/*Begin element Styling*/
+html, body{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+p{
+    width: 100%;
+}
+
+/*End Element Styling*/
+/*Begin ID*/
+
+
+/*End ID*/
+.footer{
+    display: flex;
+    position: absolute;
+    bottom: 0px;
+    justify-content: center;
+    z-index: -1;
+    color: white;
+    background-color: grey;
+    width: 100%;
+}
+.long_footer{
+    color: white;
+    bottom: 0px;
+    width: 400px;
+    margin: 50px 0px;
+    background-color: grey;
+    width: 100%;
+}
+
+.centered_footer{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 15%;
+    z-index: 1;
+}
+
+.body{
+    width: 70%;
+    margin: 0% 15% 5%;
+}
+.header{
+    position: relative;
+    justify-content: center;
+    color: white;
+}
+.centered{
+    position: absolute;
+    background-color: black;
+    top: 33%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+.centeredsub{
+    position: absolute;
+    background-color: black;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
 }
