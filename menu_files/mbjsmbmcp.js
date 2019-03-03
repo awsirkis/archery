@@ -28,7 +28,7 @@ var aJ=document.getElementById(d+"ebul_table");var aL=document.getElementById(d+
  MenuDirection: 0,
  MenuName: "mbmcp",
  DefaultDirectionX: 1,
- HamburgerEnabled: true,
+ HamburgerEnabled: false,
  HamburgerFromWidth: -1,
  HamburgerAtPageTop: true
 });
